@@ -1,6 +1,7 @@
 #include <unistd.h>
 /**
- * main - A program that prints a line with write function
+ * main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19",
+ * followed by a new line, to the standard error.
  * return: Always 1.
  */
 int main(void)
