@@ -9,8 +9,8 @@
 int main(void)
 {
 
-int i,h;
-for (i = '0'; i <= '9'; i++)
+int i, h;
+for (i = '0'; i < '9'; i++)
 {
 for (h = i + 1; h <= '9'; h++)
 {
