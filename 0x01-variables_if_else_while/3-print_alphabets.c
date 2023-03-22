@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main -  Entry point,prints the alphabet in lowercase, and then in uppercase
- * Retur: Alaways 0 (success)
+ * main -  Entry point
+ * Retur: Always 0 (Success)
  */
 int main(void)
 {
