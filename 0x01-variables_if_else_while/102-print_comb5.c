@@ -9,9 +9,9 @@
 int main(void)
 {
 int i, h;
-for (i = '0'; i < '98'; i++)
+for (i = 0; i < 98; i++)
 {
-for (h = i + 1; h <= '99'; h++)
+for (h = i + 1; h <= 99; h++)
 {
 putchar((i / 10) + '0');
 putchar((i % 10) + '0');
