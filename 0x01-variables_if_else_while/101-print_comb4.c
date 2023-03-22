@@ -13,9 +13,9 @@ for (i = '0'; i < '9'; i++)
 {
 for (h = i + 1; h <= '9'; h++)
 {
-for (b = h + 1; b <= '9'; b++)	
-{	
-if ((h != i) !=b)
+for (b = h + 1; b <= '9'; b++)
+{
+if ((h != i) != b)
 {
 putchar(i);
 putchar(h);
