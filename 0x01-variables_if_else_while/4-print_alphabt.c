@@ -14,8 +14,8 @@ q = 'q';
 
 for (low = 'a'; low <= 'z'; low++)
 {
-if (low != ei && low != q )
-putchar(low);	
+if (low != ei && low != q)
+putchar(low);
 }
 putchar('\n');
 
