@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main -  prints the alphabet in lowercase
+ * main -  Entry point
  * Retur: Alaways (success)
  */
 int main(void)
