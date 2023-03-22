@@ -20,7 +20,7 @@ if ((h != i) !=b)
 putchar(i);
 putchar(h);
 putchar(b);
-if (i == '7' && h == '7')
+if (i == '7' && h == '8')
 continue;
 putchar(',');
 putchar(' ');
