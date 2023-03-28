@@ -2,7 +2,6 @@
 
 /**
  * puts_half - Prints half of a string
- *
  * @str: The string to print
  * Return: void
  */
@@ -25,7 +24,6 @@ else
 {
 k = j / 2;
 }
-
 for (; k < j; k++)
 {
 _putchar(str[k]);
