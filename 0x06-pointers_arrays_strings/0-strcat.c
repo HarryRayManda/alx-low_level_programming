@@ -4,7 +4,7 @@
 /**
  * _strcat - Concanates two strings
  * @dest: The destination string
- * src: The source string
+ * @src: The source string
  * Return: A pointer to the returning string dest
  */
 
