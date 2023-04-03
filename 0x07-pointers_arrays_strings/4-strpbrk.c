@@ -20,4 +20,4 @@ return (s + i);
 }
 }
 return (NULL);
-}	
+}
