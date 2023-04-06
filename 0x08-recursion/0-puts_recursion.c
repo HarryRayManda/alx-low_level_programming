@@ -4,7 +4,7 @@
 /**
  * _puts_recursion - Print a string followed by a new line
  * @s: the stirng to print
- * 
+ *
  * Return: Nothing
  */
 
