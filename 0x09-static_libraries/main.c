@@ -8,6 +8,6 @@
 
 int main(void)
 {
-_puts("\"At the end of the day,be the best hacker\"\n\t- Kevin Mitnick");
+_putchar("\"At the end of the day,be the best hacker\"\n\t- Kevin Mitnick");
 return (0);
 }
