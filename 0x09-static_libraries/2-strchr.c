@@ -5,6 +5,7 @@
  * @c: input
  * Return: Always 0 (Success)
  */
+
 char *_strchr(char *s, char c)
 {
 int i = 0;
