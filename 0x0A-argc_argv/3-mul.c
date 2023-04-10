@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 /**
  * main - Prints the multiplication of two args numbers
@@ -18,11 +19,11 @@ if (argc == 3)
 {
 n1 = atoi(argv[1]);
 n2 = atoi(argv[2]);
-printf("%d\n", n1 * n2);
+printf("%d\n", n1 *n2);
 }
 else
 {
-printf("ERROR\n");
+printf("Error\n");
 return (1);
 }
 return (0);
